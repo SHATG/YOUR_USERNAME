@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer | Web Developer | Game Developer | AI Explorer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AhmedOsama&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=SHATG&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ## ⚡ About Me
@@ -22,11 +22,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedOsama&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SHATG&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHATG&theme=radical" />
 </p>
 
 ## 📫 Connect With Me
